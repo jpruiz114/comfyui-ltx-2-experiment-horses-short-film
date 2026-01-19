@@ -6,6 +6,10 @@ A ComfyUI-based image-to-video project featuring Welsh mountain ponies, created 
 
 This project consists of **26 scenes**, each **5 seconds long**, generated using ComfyUI workflows. Each scene was created using a dedicated workflow file, resulting in a cohesive video narrative about Welsh mountain ponies.
 
+## Final Video
+
+Watch the final video on Vimeo: [Horse Project - Image to Video](https://vimeo.com/1155850891)
+
 ## Technical Details
 
 ### Software
