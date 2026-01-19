@@ -31,7 +31,7 @@ Todas las imágenes de las escenas fueron generadas consistentemente a partir de
 
 ### Hardware
 - **GPU**: NVIDIA RTX 5060 Ti con 16GB DDR7
-- **RAM**: 64GB DRAM
+- **RAM**: 64 GB DDR4
 - **OS**: Linux / Ubuntu
 
 ## Estructura del Proyecto

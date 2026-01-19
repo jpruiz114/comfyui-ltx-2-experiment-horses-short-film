@@ -31,7 +31,7 @@ All scene images were generated consistently from a single base image: **Welsh-m
 
 ### Hardware
 - **GPU**: NVIDIA RTX 5060 Ti with 16GB DDR7
-- **RAM**: 64GB DRAM
+- **RAM**: 64 GB DDR4
 - **OS**: Linux / Ubuntu
 
 ## Project Structure
