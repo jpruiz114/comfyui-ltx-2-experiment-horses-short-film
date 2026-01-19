@@ -72,6 +72,22 @@ Escenas finales que llevan la narrativa a su conclusión
 5. **Ensamblaje**: Las escenas se fusionaron usando OpenShot Video Editor
 6. **Salida Final**: Video final ensamblado con la pista de audio comprada
 
+## ⚠️ CRÍTICO: Guía de Prompts para LTX-2
+
+**Es CRÍTICO seguir la guía oficial de prompts de LTX-2 al crear prompts para este flujo de trabajo.** La calidad y consistencia de la salida de video depende en gran medida de prompts estructurados correctamente que sigan los requisitos de LTX-2.
+
+**Por favor, revisa la guía oficial de prompts antes de crear tus prompts:**
+- **[Guía de Prompts para LTX-2](https://ltx.io/model/model-blog/prompting-guide-for-ltx-2)**
+
+La guía cubre aspectos esenciales incluyendo:
+- Establecer tomas con términos de cinematografía
+- Configurar escenas con iluminación, color y atmósfera
+- Describir secuencias de acción
+- Definir personajes y movimientos de cámara
+- Mejores prácticas y qué evitar
+
+Todos los prompts usados en este proyecto fueron creados siguiendo estas pautas, razón por la cual producen resultados consistentes y de alta calidad.
+
 ## Archivos
 
 - `LTX-2 I2V WORKFLOW Part 01.json` hasta `LTX-2 I2V WORKFLOW Part 26.json`: Archivos de flujo de trabajo individuales para cada escena

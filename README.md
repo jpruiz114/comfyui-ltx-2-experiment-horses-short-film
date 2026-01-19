@@ -72,6 +72,22 @@ Final scenes bringing the narrative to completion
 5. **Assembly**: Scenes were merged using OpenShot Video Editor
 6. **Final Output**: Final video assembled with purchased audio track
 
+## ⚠️ CRITICAL: LTX-2 Prompting Guide
+
+**It is CRITICAL to follow the official LTX-2 prompting guide when creating prompts for this workflow.** The quality and consistency of your video output depends heavily on properly structured prompts that follow LTX-2's requirements.
+
+**Please review the official prompting guide before creating your prompts:**
+- **[LTX-2 Prompting Guide](https://ltx.io/model/model-blog/prompting-guide-for-ltx-2)**
+
+The guide covers essential aspects including:
+- Establishing shots with cinematography terms
+- Setting scenes with lighting, color, and atmosphere
+- Describing action sequences
+- Defining characters and camera movements
+- Best practices and what to avoid
+
+All prompts used in this project were crafted following these guidelines, which is why they produce consistent, high-quality results.
+
 ## Files
 
 - `LTX-2 I2V WORKFLOW Part 01.json` through `LTX-2 I2V WORKFLOW Part 26.json`: Individual workflow files for each scene
