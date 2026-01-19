@@ -6,11 +6,21 @@ Un proyecto de imagen a video basado en ComfyUI que presenta ponis galeses de mo
 
 Este proyecto consiste en **26 escenas**, cada una de **5 segundos de duración**, generadas usando flujos de trabajo de ComfyUI. Cada escena fue creada usando un archivo de flujo de trabajo dedicado, resultando en una narrativa de video cohesiva sobre ponis galeses de montaña.
 
+Todas las imágenes de las escenas fueron generadas consistentemente a partir de una única imagen base: **Welsh-mountain-ponies** (`Welsh-mountain-ponies-1024x598.jpg`). Esta imagen base sirvió como fundamento para generar las 26 imágenes específicas de cada escena, asegurando consistencia visual a lo largo del proyecto.
+
+### Imagen Base
+
+<img src="assets/images/Welsh-mountain-ponies-1024x598.jpg" alt="Ponis Galeses de Montaña - Imagen Base" width="640">
+
 ## Video Final
+
+**Haz clic en la imagen de abajo para ver el video en Vimeo** (se abre en una nueva pestaña):
 
 <a href="https://vimeo.com/1155850891" target="_blank">
   <img src="assets/images/video-thumbnail.jpg" alt="Proyecto de Caballos - Imagen a Video" width="640">
 </a>
+
+**Enlace directo**: [https://vimeo.com/1155850891](https://vimeo.com/1155850891)
 
 ## Detalles Técnicos
 
@@ -27,7 +37,8 @@ Este proyecto consiste en **26 escenas**, cada una de **5 segundos de duración*
 ## Estructura del Proyecto
 
 - **Flujos de Trabajo**: 26 archivos JSON de flujo de trabajo (LTX-2 I2V WORKFLOW Part 01.json hasta Part 26.json)
-- **Imágenes**: Imágenes base y recursos generados almacenados en `assets/images/`
+- **Imagen Base**: `Welsh-mountain-ponies-1024x598.jpg` - La imagen original usada para generar las 26 imágenes de escenas
+- **Imágenes**: Imagen base e imágenes de escenas generadas almacenadas en `assets/images/`
 - Cada archivo de flujo de trabajo corresponde a una escena en el video final
 
 ## Estructura Narrativa
@@ -54,12 +65,12 @@ Escenas finales que llevan la narrativa a su conclusión
 
 ## Proceso de Flujo de Trabajo
 
-1. Se usó una imagen base (Welsh-mountain-ponies) como entrada
-2. ChatGPT generó variaciones e imágenes específicas para cada escena
-3. Cada imagen fue procesada a través de ComfyUI usando el flujo de trabajo LTX-2 I2V
-4. Se generaron 26 escenas de video individuales de 5 segundos
-5. Las escenas se fusionaron usando OpenShot Video Editor
-6. Video final ensamblado con la pista de audio comprada
+1. **Imagen Base**: La imagen original `Welsh-mountain-ponies-1024x598.jpg` fue usada como fundamento
+2. **Generación de Imágenes**: ChatGPT generó 26 variaciones de imágenes específicas para cada escena, todas consistentemente derivadas de la imagen base de ponis galeses de montaña
+3. **Generación de Video**: Cada imagen generada fue procesada a través de ComfyUI usando el flujo de trabajo LTX-2 I2V
+4. **Creación de Escenas**: Se generaron 26 escenas de video individuales de 5 segundos
+5. **Ensamblaje**: Las escenas se fusionaron usando OpenShot Video Editor
+6. **Salida Final**: Video final ensamblado con la pista de audio comprada
 
 ## Archivos
 

@@ -6,11 +6,21 @@ A ComfyUI-based image-to-video project featuring Welsh mountain ponies, created 
 
 This project consists of **26 scenes**, each **5 seconds long**, generated using ComfyUI workflows. Each scene was created using a dedicated workflow file, resulting in a cohesive video narrative about Welsh mountain ponies.
 
+All scene images were generated consistently from a single base image: **Welsh-mountain-ponies** (`Welsh-mountain-ponies-1024x598.jpg`). This base image served as the foundation for generating all 26 scene-specific images, ensuring visual consistency throughout the project.
+
+### Base Image
+
+<img src="assets/images/Welsh-mountain-ponies-1024x598.jpg" alt="Welsh Mountain Ponies - Base Image" width="640">
+
 ## Final Video
+
+**Click the image below to watch the video on Vimeo** (opens in a new tab):
 
 <a href="https://vimeo.com/1155850891" target="_blank">
   <img src="assets/images/video-thumbnail.jpg" alt="Horse Project - Image to Video" width="640">
 </a>
+
+**Direct link**: [https://vimeo.com/1155850891](https://vimeo.com/1155850891)
 
 ## Technical Details
 
@@ -27,7 +37,8 @@ This project consists of **26 scenes**, each **5 seconds long**, generated using
 ## Project Structure
 
 - **Workflows**: 26 JSON workflow files (LTX-2 I2V WORKFLOW Part 01.json through Part 26.json)
-- **Images**: Base images and generated assets stored in `assets/images/`
+- **Base Image**: `Welsh-mountain-ponies-1024x598.jpg` - The original image used to generate all 26 scene images
+- **Images**: Base image and generated scene images stored in `assets/images/`
 - Each workflow file corresponds to one scene in the final video
 
 ## Narrative Structure
@@ -54,12 +65,12 @@ Final scenes bringing the narrative to completion
 
 ## Workflow Process
 
-1. Base image (Welsh-mountain-ponies) was used as input
-2. ChatGPT generated variations and scene-specific images
-3. Each image was processed through ComfyUI using LTX-2 I2V workflow
-4. 26 individual 5-second video scenes were generated
-5. Scenes were merged using OpenShot Video Editor
-6. Final video assembled with purchased audio track
+1. **Base Image**: The original `Welsh-mountain-ponies-1024x598.jpg` image was used as the foundation
+2. **Image Generation**: ChatGPT generated 26 scene-specific image variations, all consistently derived from the base Welsh-mountain-ponies image
+3. **Video Generation**: Each generated image was processed through ComfyUI using the LTX-2 I2V workflow
+4. **Scene Creation**: 26 individual 5-second video scenes were generated
+5. **Assembly**: Scenes were merged using OpenShot Video Editor
+6. **Final Output**: Final video assembled with purchased audio track
 
 ## Files
 
