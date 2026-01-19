@@ -15,12 +15,12 @@ All scene images were generated consistently from a single base image: **Welsh-m
 #### Reference Image Disclaimer
 
 One publicly available photograph was used solely as a visual reference to guide AI image generation during this experiment.
-The original image is not included in this repository, is not redistributed, and was not used directly in the final video.
-All visuals in this project are AI-generated and are not reproductions of the reference photograph.
+The reference image (`Welsh-mountain-ponies-1024x598.jpg`) is included in this repository for transparency and reference purposes only.
+The reference image was not used directly in the final video. All scene visuals in this project are AI-generated and are not reproductions of the reference photograph.
 
 This project is non-commercial and intended for experimentation and learning purposes only.
 
-**Original reference photo**: [Facebook Photo](https://www.facebook.com/photo/?fbid=463750579086585&set=a.463750549086588)
+**Original reference photo source**: [Facebook Photo](https://www.facebook.com/photo/?fbid=463750579086585&set=a.463750549086588)
 
 ## Final Video
 
