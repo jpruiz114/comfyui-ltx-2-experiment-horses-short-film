@@ -8,7 +8,9 @@ This project consists of **26 scenes**, each **5 seconds long**, generated using
 
 ## Final Video
 
-Watch the final video on Vimeo: [Horse Project - Image to Video](https://vimeo.com/1155850891)
+<a href="https://vimeo.com/1155850891" target="_blank">
+  <img src="assets/images/video-thumbnail.jpg" alt="Horse Project - Image to Video" width="640">
+</a>
 
 ## Technical Details
 
