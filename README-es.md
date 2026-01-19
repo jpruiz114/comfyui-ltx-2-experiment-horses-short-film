@@ -12,6 +12,16 @@ Todas las imágenes de las escenas fueron generadas consistentemente a partir de
 
 <img src="assets/images/Welsh-mountain-ponies-1024x598.jpg" alt="Ponis Galeses de Montaña - Imagen Base" width="640">
 
+#### Descargo de Responsabilidad de Imagen de Referencia
+
+Se usó una fotografía disponible públicamente únicamente como referencia visual para guiar la generación de imágenes por IA durante este experimento.
+La imagen original no está incluida en este repositorio, no se redistribuye, y no se usó directamente en el video final.
+Todas las imágenes en este proyecto son generadas por IA y no son reproducciones de la fotografía de referencia.
+
+Este proyecto es no comercial y está destinado únicamente para fines de experimentación y aprendizaje.
+
+**Fotografía de referencia original**: [Foto de Facebook](https://www.facebook.com/photo/?fbid=463750579086585&set=a.463750549086588)
+
 ## Video Final
 
 **Haz clic en la imagen de abajo para ver el video en Vimeo** (se abre en una nueva pestaña):
